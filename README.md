@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Ai,ML,django**
 
-- 👨‍💻 All of my projects are available at [My GitHub](My GitHub)
+- 👨‍💻 All of my projects are available at "Hammadahmd00"(My GitHub)
 
 - 📫 How to reach me **Meharhammad911@gmail.com**
 
